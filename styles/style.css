@@ -467,6 +467,9 @@ linear-gradient(90deg, color(display-p3 0.145 0.388 0.922) 1.75%, color(display-
     margin: 16px 0;   
     color: white;
 }
+.footer-flex p {
+    color: white;
+}
 .footer-flex div h3 {
     font-weight: 700;
     font-size: 16px;
